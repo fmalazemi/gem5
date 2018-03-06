@@ -1,0 +1,1 @@
+1. Scons are used for compiling the Gem5 package. Using Scones we can control how to compile and put together Gem5. 
